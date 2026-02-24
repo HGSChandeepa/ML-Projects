@@ -1,0 +1,15 @@
+2026-02-24 20:24:29,979 DEBUG web_agent: Starting Playwright (headless=False)
+2026-02-24 20:24:30,917 INFO web_agent: Browser launched
+2026-02-24 20:24:30,918 INFO web_agent: Starting agent for task: go to https://www.youtube.com/ and get me the link of the song "love me like you do "
+2026-02-24 20:29:38,480 DEBUG web_agent: Starting Playwright (headless=False)
+2026-02-24 20:29:39,459 INFO web_agent: Browser launched
+2026-02-24 20:29:39,459 INFO web_agent: Starting agent for task: go to https://www.youtube.com/ and get me the link of the song "love me like you do "
+2026-02-24 20:30:12,779 DEBUG web_agent: Starting Playwright (headless=False)
+2026-02-24 20:30:13,729 INFO web_agent: Browser launched
+2026-02-24 20:30:13,730 INFO web_agent: Starting agent for task: go to https://www.youtube.com/ 
+2026-02-24 20:30:22,943 ERROR web_agent: Error calling model.generate_content: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-02-24 20:30:22,953 INFO web_agent: Closing browser
+2026-02-24 20:30:23,350 INFO web_agent: Browser closed
+2026-02-24 20:30:42,530 DEBUG web_agent: Starting Playwright (headless=False)
+2026-02-24 20:30:43,480 INFO web_agent: Browser launched
+2026-02-24 20:30:43,486 INFO web_agent: Starting agent for task: go to https://www.youtube.com/ and get me the link of the song "love me like you do "
