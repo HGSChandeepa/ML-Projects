@@ -1,0 +1,1 @@
+Could not find the elements to click on the courses. Returning empty JSON array.

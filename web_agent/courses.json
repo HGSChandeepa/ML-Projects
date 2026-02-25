@@ -1,0 +1,18 @@
+[
+  {
+    "name": "\ud83d\udef8Flux Lora Image Generation Course",
+    "description": "The Flux Lora Image Generation Course is your gateway to mastering AI-powered image creation! Dive into the fundamentals of diffusion models, understand Flux architecture, and explore Low-Rank Adaptation (LORA) for image-to-image generation. We'll also cover Google's DREAM-BOOTH method, data preparation techniques, and training options on GPUs or cloud services like Replicate. You'll learn to refine prompts for stunning outputs, run models with ComfyUI, and even gain insights into building a business around your new skills.",
+    "price": "N/A",
+    "duration": "N/A",
+    "instructor": "N/A",
+    "extras": "Category: AI Image Generation. Lessons: Introduction to Image Generation and how it works (Diffusion Models Explained), What is flux and its architecture, What is a LORA and how it can be used with flux for Image-to-Image generation, What is the trigger word (Explanation on the DREAM-BOOTH method from Google research paper), Data Preparation and considerations for input data for the best outputs, Ways to train the model (With our own GPU or using Shared Cloud GPU) with examples and cost, Using Replicate to train the model with Image captions, How to refine prompts to get the best results, How to run trained models using ComfyUI, How to build a business around this. Additional info: First two lessons can be watched for free upon enrollment."
+  },
+  {
+    "name": "\ud83e\udd16 Fine-Tuning Large Language Models from Scratch",
+    "description": "In this hands-on series, I'll walk you through everything you need to know to fine-tune a Large Language Model (LLM) \u2014 starting from the basics all the way to building a production-ready spam classifier. For beginners in machine learning, NLP enthusiasts, or seasoned data scientists aiming for 2025 expertise, this series delivers both theoretical insights and practical coding skills.",
+    "price": "N/A",
+    "duration": "N/A",
+    "instructor": "N/A",
+    "extras": "Category: Machine Learning & NLP. Lessons: What it means to fine-tune LLMs & different methods used, Choosing between encoder, decoder, or encoder-decoder models, Dataset preparation & preprocessing techniques, Understanding Transformers & loading pre-trained models, Tokenization & embeddings explained, The self-attention mechanism in detail, Creating DataLoaders for LLM training, Building the LLM architecture (FC layers, activations, dropout, softmax), Using the Adam optimizer effectively, Handling class imbalance & using weighted loss functions, How Negative Log-Likelihood (NLL) works in classification, Training & validating your model, Final evaluation: loss, classification report, confusion matrix. Additional info: First two lessons can be watched for free upon enrollment."
+  }
+]
