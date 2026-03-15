@@ -10,3 +10,6 @@ pytorch/cnn/data
 
 
 web_agent/.env
+
+.env
+*.env
